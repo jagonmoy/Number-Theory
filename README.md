@@ -119,7 +119,7 @@
      
 - # Number Theory Level 2
 
-    - ## Finding Divisors
+    - ## Number of Divisors
     
        - #### Concepts
        
