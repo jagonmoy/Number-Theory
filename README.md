@@ -66,6 +66,22 @@
           - UVA 917 (Failed to add link) : 
              [Solution](Number%20Theory%20Related%20Problems/Sieve/General%20Sieve/UVA_917.cpp)
           
+       - ##### Bitwise Sieve :
+       
+          - [UVA 10394](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1335) : 
+             [Solution](Number%20Theory%20Related%20Problems/Sieve/Bitwise%20Sieve/UVA_10394.cpp)
+             
+          - [UVA 10699](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1640) : 
+             [Solution](Number%20Theory%20Related%20Problems/Sieve/Bitwise%20Sieve/UVA_10699.cpp)
+                
+       - #### Segmentation Sieve : 
+       
+          - [SPOJ PRIME GENERATOR](https://www.spoj.com/problems/PRIME1/) : 
+             [Solution](Number%20Theory%20Related%20Problems/Sieve/Segmentation%20Sieve/SPOJ_Prime_Generator.cpp)
+             
+          - [UVA 10410](https://onlinejudge.org/external/104/10410.pdf) : 
+             [Solution](Number%20Theory%20Related%20Problems/Sieve/Segmentation%20Sieve/UVA_10410.cpp)
+             
           
           
              
