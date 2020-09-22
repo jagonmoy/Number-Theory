@@ -1,9 +1,14 @@
 - # Number Theory Level 1 
+
   - ## GCD & LCM :
+  
       - #### Concepts :
+      
           - [GCD](Concepts%20of%20Number%20Theory/GCD%20&%20LCM/GCD/)
           - [LCM](Concepts%20of%20Number%20Theory/GCD%20&%20LCM/LCM/)
+          
       - #### Related Problems :
+      
           - [UVA 10407](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1348) : 
              [Solution](Number%20Theory%20Related%20Problems/GCD%20&%20LCM/UVA_10407.cpp)
              
@@ -29,11 +34,15 @@
             [Solution](Number%20Theory%20Related%20Problems/GCD%20&%20LCM/UVA_412.cpp)
             
   - ## Sieve :
+  
       - #### Concepts :
+      
           - [General Sieve](Concepts%20of%20Number%20Theory/Sieve/General%20Sieve/)
           - [Bitwise Sieve](Concepts%20of%20Number%20Theory/Sieve/Bitwise%20Sieve/)
           - [Segmentation Sieve](Concepts%20of%20Number%20Theory/Sieve/Segmentation%20Sieve/)
+          
       - #### RELATED PROBLEMS :
+      
        - ##### General Sieve :
           
           - [UVA 10042](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=983) : 
@@ -109,4 +118,28 @@
          
      
 - # Number Theory Level 2
+
+    - ## Finding Divisors
+    
+       - #### Concepts
+       
+           - [Number of Divisors for Any Number N](Concepts%20of%20Number%20Theory/Number%20Of%20Divisors/Number%20of%20Divisors%20for%20N/)
+           - [Pre Calculating Number of Divisors from 1 to N](Concepts%20of%20Number%20Theory/Number%20Of%20Divisors/Pre%20Calculating%20Number%20of%20Divisors%20from%201%20to%20N/)
+           
+           
+           
+       - #### Related Problems
+       
+           - [Light OJ 1109](http://lightoj.com/volume_showproblem.php?problem=1109) : 
+              [Solution](Number%20Theory%20Related%20Problems//Number%20Of%20Divisors/LightOJ_1109.cpp)  
+              
+           - [Light OJ 1336](http://lightoj.com/volume_showproblem.php?problem=1336) : 
+              [Solution](Number%20Theory%20Related%20Problems//Number%20Of%20Divisors/LightOJ_1336.cpp) 
+              
+           - [SPOJ COMDIV](https://www.spoj.com/problems/COMDIV/) : 
+              [Solution](Number%20Theory%20Related%20Problems//Number%20Of%20Divisors/SPOJ_COMDIV.cpp)
+              
+           - [UVA 294](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=230) : 
+              [Solution](Number%20Theory%20Related%20Problems//Number%20Of%20Divisors/UVA_294.cpp)
+              
           
