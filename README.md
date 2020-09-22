@@ -134,13 +134,13 @@
               [Solution](Number%20Theory%20Related%20Problems/Number%20of%20divisors/LightOJ_1109.cpp)  
               
            - [Light OJ 1336](http://lightoj.com/volume_showproblem.php?problem=1336) : 
-              [Solution](Number%20Theory%20Related%20Problems/Number%20Of%20Divisors/LightOJ_1336.cpp) 
+              [Solution](Number%20Theory%20Related%20Problems/Number%20of%20divisors/LightOJ_1136.cpp) 
               
            - [SPOJ COMDIV](https://www.spoj.com/problems/COMDIV/) : 
-              [Solution](Number%20Theory%20Related%20Problems/Number%20Of%20Divisors/SPOJ_COMDIV.cpp)
+              [Solution](Number%20Theory%20Related%20Problems/Number%20of%20divisors/SPOJ_COMDIV.cpp)
               
            - [UVA 294](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=230) : 
-              [Solution](Number%20Theory%20Related%20Problems/Number%20Of%20Divisors/UVA_294.cpp)
+              [Solution](Number%20Theory%20Related%20Problems/Number%20of%20divisors/UVA_294.cpp)
               
     - ## Finding Divisors
     
@@ -150,5 +150,5 @@
            
        - #### Related Problems :
            
-           - [Light OJ 1014]() : 
+           - [Light OJ 1014](http://lightoj.com/volume_showproblem.php?problem=1014) : 
               [Solution](Number%20Theory%20Related%20Problems/Finding%20Divisors/LightOJ_1014.cpp)
