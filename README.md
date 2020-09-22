@@ -131,7 +131,7 @@
        - #### Related Problems
        
            - [Light OJ 1109](http://lightoj.com/volume_showproblem.php?problem=1109) : 
-              [Solution](Number%20Theory%20Related%20Problems/Number%20Of%20Divisors/LightOJ_1109.cpp)  
+              [Solution](Number%20Theory%20Related%20Problems/Number%20of%20divisors/LightOJ_1109.cpp)  
               
            - [Light OJ 1336](http://lightoj.com/volume_showproblem.php?problem=1336) : 
               [Solution](Number%20Theory%20Related%20Problems/Number%20Of%20Divisors/LightOJ_1336.cpp) 
