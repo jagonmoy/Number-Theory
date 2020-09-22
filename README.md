@@ -83,8 +83,13 @@
              [Solution](Number%20Theory%20Related%20Problems/Sieve/Segmentation%20Sieve/UVA_10140.cpp)
              
           
+  - ## Prime Factorisation
+        
+      - #### Concepts 
+      
+          - [Prime Factorisation of a Number](Concepts%20of%20Number%20Theory/Prime%20Factorisation/Prime%20Factorisation%20of%20a%20Number/)
+          - [Prime Factorization For multiple Queries By least prime method](Concepts%20of%20Number%20Theory/Prime%20Factorisation/Prime%20Factorization%20For%20multiple%20Queries%20By%20least%20prime%20method/)
           
-             
-          
-          
+      - #### Related Problems
+      
           
