@@ -74,7 +74,7 @@
           - [UVA 10699](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1640) : 
              [Solution](Number%20Theory%20Related%20Problems/Sieve/Bitwise%20Sieve/UVA_10699.cpp)
                 
-       - #### Segmentation Sieve : 
+       - ##### Segmentation Sieve : 
        
           - [SPOJ PRIME GENERATOR](https://www.spoj.com/problems/PRIME1/) : 
              [Solution](Number%20Theory%20Related%20Problems/Sieve/Segmentation%20Sieve/SPOJ_Prime_Generator.cpp)
