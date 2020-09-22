@@ -1,5 +1,5 @@
 - ## PREREQUISITE : IDEA ABOUT PRIME NUMBERS .
- [Brief Introduction to Sieve] (http://www.progkriya.org/gyan/basic-number-theory.html)
+ [Brief Introduction to Sieve](http://www.progkriya.org/gyan/basic-number-theory.html)
  
 - ### CODE EXPLANATION :
    The numbers which are not prime are marked by 1 . That's Why Primarily We will mark every Even Numbers by **1** Because Even Numbers are divisble by 2 . 2 is the Only 
