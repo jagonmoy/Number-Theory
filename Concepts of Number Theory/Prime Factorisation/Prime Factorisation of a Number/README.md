@@ -5,7 +5,7 @@
   
 - ### EXPLANATION :
    First Run a Sieve Algorithm and find all the Prime Numbers Up to Square root of N . 
-   Then Start dividng the Given Number N by the Prime factors less than sqrt(N) Untill N become Undivisible . This will take sqrt(N)/ln(sqrt(N)) time .Store the Prime Number which    divides N and How many times They divide . This will take log2(N) time . So overall , Inside the Factorisation Function Complexity will be O(Sqrt(N)/ln(sqrt(N))xlog2(N)) 
+   Then Start dividing the Given Number N by the Prime factors less than sqrt(N) Untill N become Undivisible . This will take sqrt(N)/ln(sqrt(N)) time .Store the Prime Number        which divides N and How many times They divide . This will take log2(N) time . So overall , Inside the Factorisation Function Complexity will be O(Sqrt(N)/ln(sqrt(N))xlog2(N)) 
    
    
    But Overall Complexity will be O(Nln(N)) . Because for the Sieve Algorithm the Complexity will be O(Nln(N)) and Inside the Factorisation Function Complexity will be 
