@@ -91,5 +91,22 @@
           - [Prime Factorization For multiple Queries By least prime method](Concepts%20of%20Number%20Theory/Prime%20Factorisation/Prime%20Factorization%20For%20multiple%20Queries%20By%20least%20prime%20method/)
           
       - #### Related Problems
-      
+          
+         - [Codeforces 1370C](https://codeforces.com/problemset/problem/1370/C) : 
+             [Solution](Number%20Theory%20Related%20Problems/Prime%20Factorisation/Codeforces_1370C.cpp)
+             
+         - [UVA 10392](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1333) : 
+             [Solution](Number%20Theory%20Related%20Problems/Prime%20Factorisation/UVA_10392.cpp)
+         
+         - [UVA 10738](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1679) : 
+             [Solution](Number%20Theory%20Related%20Problems/Prime%20Factorisation/UVA_10738.cpp)
+                 
+         - [UVA 11466](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2461) : 
+             [Solution](Number%20Theory%20Related%20Problems/Prime%20Factorisation/UVA_11466.cpp)
+         
+         - [UVA 583](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=524) : 
+             [Solution](Number%20Theory%20Related%20Problems/Prime%20Factorisation/UVA_583.cpp)
+         
+     
+- # Number Theory Level 2
           
