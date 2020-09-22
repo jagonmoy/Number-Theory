@@ -79,8 +79,8 @@
           - [SPOJ PRIME GENERATOR](https://www.spoj.com/problems/PRIME1/) : 
              [Solution](Number%20Theory%20Related%20Problems/Sieve/Segmentation%20Sieve/SPOJ_Prime_Generator.cpp)
              
-          - [UVA 10410](https://onlinejudge.org/external/104/10410.pdf) : 
-             [Solution](Number%20Theory%20Related%20Problems/Sieve/Segmentation%20Sieve/UVA_10410.cpp)
+          - [UVA 10140](https://onlinejudge.org/external/101/10140.pdf) : 
+             [Solution](Number%20Theory%20Related%20Problems/Sieve/Segmentation%20Sieve/UVA_10140.cpp)
              
           
           
