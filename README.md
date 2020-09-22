@@ -134,7 +134,7 @@
               [Solution](Number%20Theory%20Related%20Problems/Number%20of%20divisors/LightOJ_1109.cpp)  
               
            - [Light OJ 1336](http://lightoj.com/volume_showproblem.php?problem=1336) : 
-              [Solution](Number%20Theory%20Related%20Problems/Number%20of%20divisors/LightOJ_1136.cpp) 
+              [Solution](Number%20Theory%20Related%20Problems/Number%20of%20divisors/LightOJ_1336.cpp) 
               
            - [SPOJ COMDIV](https://www.spoj.com/problems/COMDIV/) : 
               [Solution](Number%20Theory%20Related%20Problems/Number%20of%20divisors/SPOJ_COMDIV.cpp)
