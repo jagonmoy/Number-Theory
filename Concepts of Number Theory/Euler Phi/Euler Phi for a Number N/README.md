@@ -2,4 +2,4 @@
 
 - ### EXPLANATION LINK :
 
-   [Euler Phi] (https://cp-algorithms.com/algebra/phi-function.html)
+   [Euler Phi](https://cp-algorithms.com/algebra/phi-function.html)
