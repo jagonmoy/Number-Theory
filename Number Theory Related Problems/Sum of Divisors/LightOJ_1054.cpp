@@ -1,8 +1,8 @@
-Explanation : used modular multiplicative inverse , bigmod , prime factoraization .
+ /* Explanation : used modular multiplicative inverse , bigmod , prime factoraization .
               if both A and N are co-prime and N itself is a prime then A^(N-1) = 1 (mod N) (Fermat's little theoram ) 
                                                                       => A^(N-2) = A^-1 (mod N) ( dividing both sides by a ) 
                                                                       here A^(N-2) % N is actually modular multiplicative inverse of A. so bigmod(A,N-2) is actually modular 
-                                                                      multiplicative inverse of A if N is a  prime .
+                                                                      multiplicative inverse of A if N is a  prime . */
 
 #include <bits/stdc++.h>
 using namespace std;
