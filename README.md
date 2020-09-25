@@ -1,5 +1,4 @@
-- # Number Theory Level 1 
-  <br><br>
+- # Number Theory Level 1 <br><br><br>
   - ## GCD & LCM :
   
       - #### Concepts :
@@ -125,11 +124,8 @@
        - #### Related Problems :
            
            - [Light OJ 1014](http://lightoj.com/volume_showproblem.php?problem=1014) : 
-              [Solution](Number%20Theory%20Related%20Problems/Finding%20Divisors/LightOJ_1014.cpp)          
-         
-     
-- # Number Theory Level 2
-
+              [Solution](Number%20Theory%20Related%20Problems/Finding%20Divisors/LightOJ_1014.cpp)<br><br><br>
+- # Number Theory Level 2 <br><br><br>
     - ## Number of Divisors
     
        - #### Concepts
@@ -257,4 +253,12 @@
             [Solution](Number%20Theory%20Related%20Problems/Factorial/UVA_160.cpp)
          
          - [UVA 884](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=825) :
-            [Solution](Number%20Theory%20Related%20Problems/Factorial/UVA_884.cpp)
+            [Solution](Number%20Theory%20Related%20Problems/Factorial/UVA_884.cpp) <br><br><br>
+ - # Number Theory Level 3 <br><br><br>
+    - ## Extended Euclid <br><br>
+      - #### Concepts <br><br>
+        - [Explanation of Extended Euclid](Concepts%20of%20Number%20Theory/Extended%20Euclid/Explanation%20of%20Extended%20Euclid/) <br><br>
+      - #### Related Problems <br><br>
+        - [UVA 10104](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1045) : 
+           [Solution](Number%20Theory%20Related%20Problems/Extended Euclid/UVA_10104.cpp
+)
