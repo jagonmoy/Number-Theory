@@ -1,11 +1,11 @@
 - # Number Theory Level 1 
-
+  <br><br>
   - ## GCD & LCM :
   
       - #### Concepts :
       
-          - [GCD](Concepts%20of%20Number%20Theory/GCD%20&%20LCM/GCD/)
-          - [LCM](Concepts%20of%20Number%20Theory/GCD%20&%20LCM/LCM/)
+          - [GCD](Concepts%20of%20Number%20Theory/GCD%20&%20LCM/GCD/)<br><br>
+          - [LCM](Concepts%20of%20Number%20Theory/GCD%20&%20LCM/LCM/)<br><br>
           
       - #### Related Problems :
       
@@ -37,9 +37,9 @@
   
       - #### Concepts :
       
-          - [General Sieve](Concepts%20of%20Number%20Theory/Sieve/General%20Sieve/)
-          - [Bitwise Sieve](Concepts%20of%20Number%20Theory/Sieve/Bitwise%20Sieve/)
-          - [Segmentation Sieve](Concepts%20of%20Number%20Theory/Sieve/Segmentation%20Sieve/)
+          - [General Sieve](Concepts%20of%20Number%20Theory/Sieve/General%20Sieve/) <br><br>
+          - [Bitwise Sieve](Concepts%20of%20Number%20Theory/Sieve/Bitwise%20Sieve/) <br><br>
+          - [Segmentation Sieve](Concepts%20of%20Number%20Theory/Sieve/Segmentation%20Sieve/) <br><br>
           
       - #### RELATED PROBLEMS :
       
@@ -96,8 +96,8 @@
         
       - #### Concepts 
       
-          - [Prime Factorisation of a Number](Concepts%20of%20Number%20Theory/Prime%20Factorisation/Prime%20Factorisation%20of%20a%20Number/)
-          - [Prime Factorization For multiple Queries By least prime method](Concepts%20of%20Number%20Theory/Prime%20Factorisation/Prime%20Factorization%20For%20multiple%20Queries%20By%20least%20prime%20method/)
+          - [Prime Factorisation of a Number](Concepts%20of%20Number%20Theory/Prime%20Factorisation/Prime%20Factorisation%20of%20a%20Number/) <br><br>
+          - [Prime Factorization For multiple Queries By least prime method](Concepts%20of%20Number%20Theory/Prime%20Factorisation/Prime%20Factorization%20For%20multiple%20Queries%20By%20least%20prime%20method/) <br><br>
           
       - #### Related Problems
           
@@ -120,7 +120,7 @@
     
        - #### Concepts 
           
-           - [Finding Divisors of a Number N](Concepts%20of%20Number%20Theory/Finding%20Divisors/Finding%20divisors%20of%20a%20number%20N/)
+           - [Finding Divisors of a Number N](Concepts%20of%20Number%20Theory/Finding%20Divisors/Finding%20divisors%20of%20a%20number%20N/)<br><br>
            
        - #### Related Problems :
            
@@ -134,8 +134,8 @@
     
        - #### Concepts
        
-           - [Number of Divisors for Any Number N](Concepts%20of%20Number%20Theory/Number%20Of%20Divisors/Number%20of%20Divisors%20for%20N/)
-           - [Pre Calculating Number of Divisors from 1 to N](Concepts%20of%20Number%20Theory/Number%20Of%20Divisors/Pre%20Calculating%20Number%20of%20Divisors%20from%201%20to%20N/)
+           - [Number of Divisors for Any Number N](Concepts%20of%20Number%20Theory/Number%20Of%20Divisors/Number%20of%20Divisors%20for%20N/)<br><br>
+           - [Pre Calculating Number of Divisors from 1 to N](Concepts%20of%20Number%20Theory/Number%20Of%20Divisors/Pre%20Calculating%20Number%20of%20Divisors%20from%201%20to%20N/)<br><br>
            
            
        - #### Related Problems
@@ -155,9 +155,9 @@
     - ## Sum of Divisors
        - #### Concepts
        
-          - [Sum of Divisors For a N](Concepts%20of%20Number%20Theory/Sum%20of%20Divisors/Sum%20of%20Divisors%20for%20a%20N/)
-          - [Pre Calculating Sum of Divisors from 1 to N](Concepts%20of%20Number%20Theory/Sum%20of%20Divisors/Pre%20Calculating%20Sum%20of%20Divisors%20from%201%20to%20N/)
-          - [Given a Number N find the sum of actual divisors from 1 to N in O(Sqrt(N))](Concepts%20of%20Number%20Theory/Sum%20of%20Divisors/Given%20a%20Number%20N%20find%20the%20sum%20of%20actual%20divisors%20from%201%20to%20N%20in%20O(Sqrt(N))/)
+          - [Sum of Divisors For a N](Concepts%20of%20Number%20Theory/Sum%20of%20Divisors/Sum%20of%20Divisors%20for%20a%20N/)<br><br>
+          - [Pre Calculating Sum of Divisors from 1 to N](Concepts%20of%20Number%20Theory/Sum%20of%20Divisors/Pre%20Calculating%20Sum%20of%20Divisors%20from%201%20to%20N/)<br><br>
+          - [Given a Number N find the sum of actual divisors from 1 to N in O(Sqrt(N))](Concepts%20of%20Number%20Theory/Sum%20of%20Divisors/Given%20a%20Number%20N%20find%20the%20sum%20of%20actual%20divisors%20from%201%20to%20N%20in%20O(Sqrt(N))/)<br><br>
           
        - #### Related Problems :
        
@@ -177,11 +177,11 @@
     - ## Euler Phi
        - #### Concepts :
        
-          - [Euler Phi for a Number N](Concepts%20of%20Number%20Theory/Euler%20Phi/Euler%20Phi%20for%20a%20Number%20N/)
-          - [Euler Phi From 1 to n in O(nloglogn)](Concepts%20of%20Number%20Theory/Euler%20Phi/Euler%20Phi%20From%201%20to%20n%20in%20O(nloglogn)/)
-          - [How many Numbers from 1 to N has GCD(i,N) = g](Concepts%20of%20Number%20Theory/Euler%20Phi/How%20many%20Numbers%20from%201%20to%20N%20has%20GCD(i,N)%20=%20g/)
-          - [Calculate the SUM = LCM(1,N) + LCM(2,N) + LCM(3,N)+... + LCM(N,N)](Concepts%20of%20Number%20Theory/Euler%20Phi/Calculate%20the%20SUM%20=%20LCM(1,N)%20+%20LCM(2,N)%20+%20LCM(3,N)+...%20+%20LCM(N,N)/)  
-            <br><br>
+          - [Euler Phi for a Number N](Concepts%20of%20Number%20Theory/Euler%20Phi/Euler%20Phi%20for%20a%20Number%20N/)<br><br>
+          - [Euler Phi From 1 to n in O(nloglogn)](Concepts%20of%20Number%20Theory/Euler%20Phi/Euler%20Phi%20From%201%20to%20n%20in%20O(nloglogn)/)<br><br>
+          - [How many Numbers from 1 to N has GCD(i,N) = g](Concepts%20of%20Number%20Theory/Euler%20Phi/How%20many%20Numbers%20from%201%20to%20N%20has%20GCD(i,N)%20=%20g/)<br><br>
+          - [Calculate the SUM = LCM(1,N) + LCM(2,N) + LCM(3,N)+... + LCM(N,N)](Concepts%20of%20Number%20Theory/Euler%20Phi/Calculate%20the%20SUM%20=%20LCM(1,N)%20+%20LCM(2,N)%20+%20LCM(3,N)+...%20+%20LCM(N,N)/) <br><br>
+            
        - #### Related Problems :
           
           - [Codeforces 1295D](https://codeforces.com/problemset/problem/1295/D) :
@@ -216,3 +216,15 @@
            
           - [UVA 13132](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=5043) :
               [Solution](Number%20Theory%20Related%20Problems/Euler%20Phi/UVA_13132.cpp)
+    
+    - ## Factorial
+    
+       - #### Concepts <br><br>
+         - [Digits of a factorial](Concepts%20of%20Number%20Theory/Factorial/Digit%20of%20a%20factorial/)<br><br>
+         - [Digits of a factorial in Different Base](Concepts%20of%20Number%20Theory/Factorial/Digits%20of%20a%20factorial%20in%20Different%20Base/)<br><br>
+         - [Pre Calculating Digits of N! in different bases](Concepts%20of%20Number%20Theory/Factorial/Pre%20Calculating%20Digits%20of%20N!%20in%20different%20bases/)<br><br>
+         - [Factorial Factorisation](Concepts%20of%20Number%20Theory/Factorial/Factorial%20Factorisation/)<br><br>
+         - [Pre Calculating No of Factors from 1! to N!](Concepts%20of%20Number%20Theory/Factorial/Pre%20Calculating%20No%20of%20Factors%20from%201!%20to%20N!/)<br><br>
+         - [Dividing a large factorial number N! by a number M](Concepts%20of%20Number%20Theory/Factorial/Dividing%20a%20large%20factorial%20number%20N!%20by%20a%20number%20M/)<br><br>
+         - [Number of Trailing Zeroes in N!](Concepts%20of%20Number%20Theory/Factorial/Number%20of%20Trailing%20Zeroes%20in%20N!/)<br><br>
+         - [For a Given Number N how many Number system will have trailing zeroes](Concepts%20of%20Number%20Theory/Factorial/For%20a%20Given%20Number%20N%20how%20many%20Number%20system%20will%20have%20trailing%20zeroes/)<br><br><br>
