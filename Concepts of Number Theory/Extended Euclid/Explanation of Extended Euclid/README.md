@@ -47,7 +47,7 @@
   this two methods are completely opposite one is from top to bottom and other is from bottom to top . now how to compute x,y and GCD together ??????<br><br>
   to solve this issue we need to understand pass by reference method . I tried to explain the code below by an example .<br><br>
   - ### Code <br><br><br>
-  <img src="/Stopstalk.png" width="600" > <br><br><br>
+  <img src="Images/Extended_Euclid.png" width="600" > <br><br><br>
   - ### Code Explanation <br><br>
   here we passed the value of a and b , and passed the address of x,y <br><br>
   let us see a example<br><br> 
