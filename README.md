@@ -260,5 +260,8 @@
         - [Explanation of Extended Euclid](Concepts%20of%20Number%20Theory/Extended%20Euclid/Explanation%20of%20Extended%20Euclid/) <br><br>
       - #### Related Problems <br><br>
         - [UVA 10104](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1045) : 
-           [Solution](Number%20Theory%20Related%20Problems/Extended Euclid/UVA_10104.cpp
-)
+           [Solution](Number%20Theory%20Related%20Problems/Extended%20Euclid/UVA_10104.cpp) <br><br>
+    
+           
+           
+ 
