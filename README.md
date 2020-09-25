@@ -228,3 +228,33 @@
          - [Dividing a large factorial number N! by a number M](Concepts%20of%20Number%20Theory/Factorial/Dividing%20a%20large%20factorial%20number%20N!%20by%20a%20number%20M/)<br><br>
          - [Number of Trailing Zeroes in N!](Concepts%20of%20Number%20Theory/Factorial/Number%20of%20Trailing%20Zeroes%20in%20N!/)<br><br>
          - [For a Given Number N how many Number system will have trailing zeroes](Concepts%20of%20Number%20Theory/Factorial/For%20a%20Given%20Number%20N%20how%20many%20Number%20system%20will%20have%20trailing%20zeroes/)<br><br><br>
+      - ### Related Problems <br><br>
+         - [LightOJ 1028](http://lightoj.com/volume_showproblem.php?problem=1028) :
+            [Solution](Number%20Theory%20Related%20Problems/Factorial/LightOJ_1028.cpp)
+            
+         - [LightOJ 1035](http://lightoj.com/volume_showproblem.php?problem=1035) :
+            [Solution](Number%20Theory%20Related%20Problems/Factorial/LightOJ_1035.cpp)
+         
+         - [LightOJ 1045](http://lightoj.com/volume_showproblem.php?problem=1045) :
+            [Solution](Number%20Theory%20Related%20Problems/Factorial/LightOJ_1045.cpp)
+         
+         - [LightOJ 1090](http://lightoj.com/volume_showproblem.php?problem=1090) :
+            [Solution](Number%20Theory%20Related%20Problems/Factorial/LightOJ_1090.cpp)
+            
+         - [LightOJ 1340](http://lightoj.com/volume_showproblem.php?problem=1340) :
+            [Solution](Number%20Theory%20Related%20Problems/Factorial/LightOJ_1340.cpp)
+            
+         - [UVA 10061](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1002) :
+            [Solution](Number%20Theory%20Related%20Problems/Factorial/UVA_10061.cpp)
+         
+         - [UVA 10780](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1721) :
+            [Solution](Number%20Theory%20Related%20Problems/Factorial/UVA_10780.cpp)
+            
+         - [UVA 11415](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2410) :
+            [Solution](Number%20Theory%20Related%20Problems/Factorial/UVA_11415.cpp)
+            
+         - [UVA 160](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=96) :
+            [Solution](Number%20Theory%20Related%20Problems/Factorial/UVA_160.cpp)
+         
+         - [UVA 884](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=825) :
+            [Solution](Number%20Theory%20Related%20Problems/Factorial/UVA_884.cpp)
