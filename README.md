@@ -115,6 +115,17 @@
          
          - [UVA 583](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=524) : 
              [Solution](Number%20Theory%20Related%20Problems/Prime%20Factorisation/UVA_583.cpp)
+             
+   - ## Finding Divisors
+    
+       - #### Concepts 
+          
+           - [Finding Divisors of a Number N](Concepts%20of%20Number%20Theory/Finding%20Divisors/Finding%20divisors%20of%20a%20number%20N/)
+           
+       - #### Related Problems :
+           
+           - [Light OJ 1014](http://lightoj.com/volume_showproblem.php?problem=1014) : 
+              [Solution](Number%20Theory%20Related%20Problems/Finding%20Divisors/LightOJ_1014.cpp)          
          
      
 - # Number Theory Level 2
@@ -125,7 +136,6 @@
        
            - [Number of Divisors for Any Number N](Concepts%20of%20Number%20Theory/Number%20Of%20Divisors/Number%20of%20Divisors%20for%20N/)
            - [Pre Calculating Number of Divisors from 1 to N](Concepts%20of%20Number%20Theory/Number%20Of%20Divisors/Pre%20Calculating%20Number%20of%20Divisors%20from%201%20to%20N/)
-           
            
            
        - #### Related Problems
@@ -141,17 +151,6 @@
               
            - [UVA 294](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=230) : 
               [Solution](Number%20Theory%20Related%20Problems/Number%20of%20divisors/UVA_294.cpp)
-              
-    - ## Finding Divisors
-    
-       - #### Concepts 
-          
-           - [Finding Divisors of a Number N](Concepts%20of%20Number%20Theory/Finding%20Divisors/Finding%20divisors%20of%20a%20number%20N/)
-           
-       - #### Related Problems :
-           
-           - [Light OJ 1014](http://lightoj.com/volume_showproblem.php?problem=1014) : 
-              [Solution](Number%20Theory%20Related%20Problems/Finding%20Divisors/LightOJ_1014.cpp)
               
     - ## Sum of Divisors
        - #### Concepts
