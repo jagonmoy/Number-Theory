@@ -172,3 +172,47 @@
                
           - [SPOJ DIVSUM2](https://www.spoj.com/problems/DIVSUM2/) : 
               [Solution](Number%20Theory%20Related%20Problems/Sum%20of%20Divisors/SPOJ_DIVSUM2.cpp)
+              
+              
+    - ## Euler Phi
+       - #### Concepts :
+       
+          - [Euler Phi for a Number N](Concepts%20of%20Number%20Theory/Euler%20Phi/Euler%20Phi%20for%20a%20Number%20N/)
+          - [Euler Phi From 1 to n in O(nloglogn)](Concepts%20of%20Number%20Theory/Euler%20Phi/Euler%20Phi%20From%201%20to%20n%20in%20O(nloglogn)/)
+          - [How many Numbers from 1 to N has GCD(i,N) = g](Concepts%20of%20Number%20Theory/Euler%20Phi/How%20many%20Numbers%20from%201%20to%20N%20has%20GCD(i,N)%20=%20g/)
+          - [Calculate the SUM = LCM(1,N) + LCM(2,N) + LCM(3,N)+... + LCM(N,N)](Concepts%20of%20Number%20Theory/Euler%20Phi/Calculate%20the%20SUM%20=%20LCM(1,N)%20+%20LCM(2,N)%20+%20LCM(3,N)+...%20+%20LCM(N,N)/)  
+            <br><br>
+       - #### Related Problems :
+          
+          - [Codeforces 1295D](https://codeforces.com/problemset/problem/1295/D) :
+              [Solution](Number%20Theory%20Related%20Problems/Euler%20Phi/Codeforces_1295D.cpp)
+          
+          - [LightOJ 1007](http://lightoj.com/volume_showproblem.php?problem=1007) :
+              [Solution](Number%20Theory%20Related%20Problems/Euler%20Phi/LightOJ_1007.cpp)
+              
+          - [SPOJ ETF](https://www.spoj.com/problems/ETF/) :
+              [Solution](Number%20Theory%20Related%20Problems/Euler%20Phi/SPOJ_ETF.cpp) 
+              
+          - [SPOJ LCMSUM](https://www.spoj.com/problems/LCMSUM/) :
+              [Solution](Number%20Theory%20Related%20Problems/Euler%20Phi/SPOJ_LCMSUM.cpp)
+          
+          - [UVA 10179](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1120) :
+              [Solution](Number%20Theory%20Related%20Problems/Euler%20Phi/UVA_10179.cpp)
+              
+          - [UVA 10820](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1761) :
+              [Solution](Number%20Theory%20Related%20Problems/Euler%20Phi/UVA_10820.cpp)
+              
+          - [UVA 10990](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1931) :
+              [Solution](Number%20Theory%20Related%20Problems/Euler%20Phi/UVA_10990.cpp)
+              
+          - [UVA 11064](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2005) :
+              [Solution](Number%20Theory%20Related%20Problems/Euler%20Phi/UVA_11064.cpp)
+              
+          - [UVA 11327](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2302) :
+              [Solution](Number%20Theory%20Related%20Problems/Euler%20Phi/UVA_11327.cpp)
+              
+          - [UVA 12425](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3856) :
+              [Solution](Number%20Theory%20Related%20Problems/Euler%20Phi/UVA_12425.cpp)
+           
+          - [UVA 13132](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=5043) :
+              [Solution](Number%20Theory%20Related%20Problems/Euler%20Phi/UVA_13132.cpp)
