@@ -1,19 +1,22 @@
 
  - # Topics <br><br>
-   - ## Number Theory Level 1 
-   <a href = "#Big" > Big Integer</a> 
-
-
-
-
-
-
-
-
+  <ul>
+ <li > <h2> <a href = "#gcdlcm" > GCD & LCM </a> </h2> </li> 
+ <li>  <h2> <a href = "#Sieve" > Sieve </a> </h2> </li>
+ <li>  <h2> <a href = "#primefactor" > Prime Factorization </a> </h2> </li>
+ <li>  <h2> <a href = "#finddiv" > Finding Divisors </a> </h2> </li>
+ <li>  <h2> <a href = "#numdiv" > Number of Divisors </a> </h2> </li>
+ <li>  <h2> <a href = "#sumdiv" > Sum of Divisors </a> </h2> </li>
+ <li>  <h2> <a href = "#phi" > Euler phi (Euler's Totient Function) </a> </h2> </li>
+ <li>  <h2> <a href = "#Fact" > Factorial </a>  </h2> </li>
+ <li>  <h2> <a href = "#Euclid" > Extended Euclid </a> </h2> </li>
+ <li>  <h2> <a href = "#Euler" > Euler Theorem and Fermat's Little Theorem </a> </h2> </li>
+ <li>  <h2> <a href = "#Big" > Big Integer in C++ for Contest </a> </h2> </li>
+  </ul>
 
 
 - # Number Theory Level 1 <br><br><br>
- - ## GCD & LCM 
+ - ## <h2 id = "gcdlcm" > GCD & LCM </h2>    
   
       - #### Concepts :
       
@@ -45,8 +48,8 @@
           
           - [UVA 412](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=353) : 
             [Solution](Number%20Theory%20Related%20Problems/GCD%20&%20LCM/UVA_412.cpp)
-            
-  - ## Sieve :
+  
+  - ## <h2 id = "Sieve" > Sieve </h2>    
   
       - #### Concepts :
       
@@ -104,8 +107,7 @@
           - [UVA 10140](https://onlinejudge.org/external/101/10140.pdf) : 
              [Solution](Number%20Theory%20Related%20Problems/Sieve/Segmentation%20Sieve/UVA_10140.cpp)
              
-          
-  - ## Prime Factorisation
+  - ## <h2 id = "primefactor" > Prime factorization </h2>          
         
       - #### Concepts 
       
@@ -129,7 +131,7 @@
          - [UVA 583](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=524) : 
              [Solution](Number%20Theory%20Related%20Problems/Prime%20Factorisation/UVA_583.cpp)
              
-   - ## Finding Divisors
+   - ## <h2 id = "finddiv" > Finding Divisors </h2>           
     
        - #### Concepts 
           
@@ -140,7 +142,7 @@
            - [Light OJ 1014](http://lightoj.com/volume_showproblem.php?problem=1014) : 
               [Solution](Number%20Theory%20Related%20Problems/Finding%20Divisors/LightOJ_1014.cpp)<br><br><br>
 - # Number Theory Level 2 <br><br><br>
-    - ## Number of Divisors
+    - ## <h2 id = "numdiv" > Number of Divisors </h2>   
     
        - #### Concepts
        
@@ -161,8 +163,10 @@
               
            - [UVA 294](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=230) : 
               [Solution](Number%20Theory%20Related%20Problems/Number%20of%20divisors/UVA_294.cpp)
-              
-    - ## Sum of Divisors
+    
+    
+    - ## <h2 id = "sumdiv" > Sum of Divisors </h2>   
+    
        - #### Concepts
        
           - [Sum of Divisors For a N](Concepts%20of%20Number%20Theory/Sum%20of%20Divisors/Sum%20of%20Divisors%20for%20a%20N/)<br><br>
@@ -182,9 +186,9 @@
                
           - [SPOJ DIVSUM2](https://www.spoj.com/problems/DIVSUM2/) : 
               [Solution](Number%20Theory%20Related%20Problems/Sum%20of%20Divisors/SPOJ_DIVSUM2.cpp)
-              
-              
-    - ## Euler Phi
+       
+       
+    - ## <h2 id = "phi" > Euler Phi </h2>          
        - #### Concepts :
        
           - [Euler Phi for a Number N](Concepts%20of%20Number%20Theory/Euler%20Phi/Euler%20Phi%20for%20a%20Number%20N/)<br><br>
@@ -227,7 +231,7 @@
           - [UVA 13132](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=5043) :
               [Solution](Number%20Theory%20Related%20Problems/Euler%20Phi/UVA_13132.cpp)
     
-    - ## Factorial
+   - ## <h2 id = "Fact" > Factorial </h2>
     
        - #### Concepts <br><br>
          - [Digits of a factorial](Concepts%20of%20Number%20Theory/Factorial/Digit%20of%20a%20factorial/)<br><br>
@@ -269,14 +273,14 @@
          - [UVA 884](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=825) :
             [Solution](Number%20Theory%20Related%20Problems/Factorial/UVA_884.cpp) <br><br><br>
  - # Number Theory Level 3 <br><br><br>
-    - ## Extended Euclid <br><br>
+    - ## <h2 id = "Euclid" > Extended Euclid </h2>
       - #### Concepts <br><br>
         - [Explanation of Extended Euclid](Concepts%20of%20Number%20Theory/Extended%20Euclid/Explanation%20of%20Extended%20Euclid/) <br><br>
       - #### Related Problems <br><br>
         - [UVA 10104](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1045) : 
            [Solution](Number%20Theory%20Related%20Problems/Extended%20Euclid/UVA_10104.cpp) <br><br>
     
-    - ## Euler theorem and Fermat's Little theorem : <br><br>
+    - ## <h2 id = "Euler" > Euler theorem and Fermat's Little theorem </h2>
       - #### Concepts <br><br>
         - [Explanation of Euler theorem and Fermat's Little theorem](Concepts%20of%20Number%20Theory/Euler%20theorem%20and%20Fermat's%20Little%20theorem/) <br><br>
     - ## <h2 id = "Big"> Big Integer </h2> :
