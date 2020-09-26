@@ -262,6 +262,8 @@
         - [UVA 10104](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1045) : 
            [Solution](Number%20Theory%20Related%20Problems/Extended%20Euclid/UVA_10104.cpp) <br><br>
     
-           
+    - ## Euler theorem and Fermat's Little theorem : <br><br>
+      - #### Concepts <br><br>
+        - [Explanation Euler theorem and Fermat's Little theorem](Concepts%20of%20Number%20Theory/Euler%20theorem%20and%20Fermat's%20Little%20theorem/)
            
  
