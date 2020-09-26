@@ -1,21 +1,21 @@
 
  - # Topics <br><br>
   <ul>
- <li > <h2> <a href = "#gcdlcm" > GCD & LCM </a> </h2> </li> 
- <li>  <h2> <a href = "#Sieve" > Sieve </a> </h2> </li>
- <li>  <h2> <a href = "#primefactor" > Prime Factorization </a> </h2> </li>
- <li>  <h2> <a href = "#finddiv" > Finding Divisors </a> </h2> </li>
- <li>  <h2> <a href = "#numdiv" > Number of Divisors </a> </h2> </li>
- <li>  <h2> <a href = "#sumdiv" > Sum of Divisors </a> </h2> </li>
- <li>  <h2> <a href = "#phi" > Euler phi (Euler's Totient Function) </a> </h2> </li>
- <li>  <h2> <a href = "#Fact" > Factorial </a>  </h2> </li>
- <li>  <h2> <a href = "#Euclid" > Extended Euclid </a> </h2> </li>
- <li>  <h2> <a href = "#Euler" > Euler Theorem and Fermat's Little Theorem </a> </h2> </li>
- <li>  <h2> <a href = "#Big" > Big Integer in C++ for Contest </a> </h2> </li>
+ <li > <h3> <a href = "#gcdlcm" > GCD & LCM </a> </h3> </li> 
+ <li>  <h3> <a href = "#Sieve" > Sieve </a> </h3> </li>
+ <li>  <h3> <a href = "#primefactor" > Prime Factorization </a> </h3> </li>
+ <li>  <h3> <a href = "#finddiv" > Finding Divisors </a> </h3> </li>
+ <li>  <h3> <a href = "#numdiv" > Number of Divisors </a> </h3> </li>
+ <li>  <h3> <a href = "#sumdiv" > Sum of Divisors </a> </h3> </li>
+ <li>  <h3> <a href = "#phi" > Euler phi (Euler's Totient Function) </a> </h3> </li>
+ <li>  <h3> <a href = "#Fact" > Factorial </a>  </h3> </li>
+ <li>  <h3> <a href = "#Euclid" > Extended Euclid </a> </h3> </li>
+ <li>  <h3> <a href = "#Euler" > Euler Theorem and Fermat's Little Theorem </a> </h3> </li>
+ <li>  <h3> <a href = "#Big" > Big Integer in C++ for Contest </a> </h3> </li>
   </ul>
+ <br><br><br>
 
-
-- # Number Theory Level 1 <br><br><br>
+- # Number Theory Level 1 <br><br>
  - ## <h2 id = "gcdlcm" > GCD & LCM </h2>    
   
       - #### Concepts :
